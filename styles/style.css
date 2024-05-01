@@ -28,8 +28,12 @@ body {
     transform-style: preserve-3d;
 }
 
-.card:hover .card-inner {
+.rotate {
     transform: rotateY(180deg);
+}
+
+.rotate-back {
+    transform: rotateY(360deg);
 }
 
 .card-front, .card-back {
