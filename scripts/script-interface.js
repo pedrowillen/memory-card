@@ -8,7 +8,7 @@ let images = [
     'jquery',
     'mongo',
     'node',
-    'react'
+    'react',
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
